@@ -1,0 +1,19 @@
+para(inteiro i = 0; i <= 5; i++){
+      escreva ((i+1),"- 1º DS Turma B\n")
+ 
+  inteiro mult
+ 
+    escreva ("Digite a tabuada desejada: ")
+    leia(mult)
+    escreva("\n------------------------\n")
+    escreva("A tabuada selecionada é do ", mult, "\n")
+ 
+ 
+    para (inteiro i=0; i<=10; i++){
+      escreva(i, " x ", mult, " = ", (i*mult) , "\n" )
+ 
+ para(inteiro i = 0; i <=100; i++){
+      escreva ("\n", i)}
+
+ para(inteiro i=50; i>=10; i--){
+      escreva ("\n", i)}
